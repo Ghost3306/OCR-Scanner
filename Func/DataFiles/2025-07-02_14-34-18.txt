@@ -1,0 +1,15 @@
+Artificial Intelligence
+PPT Presentation
+@ Machine Learning (ML)
+ML enables machines to learn and make predictions
+from data.
+@ Natural Language Processing (NLP)
+NLP allows computers to understand and generate
+human language.
+@ computer Vision
+Computer vision empowers machines to interpret
+and process visual information.
+@ Robotics
+Robotics integrates Al to create intelligent,
+autonomous machines and systems.
+
